@@ -19,8 +19,6 @@
   <a href = "mailto:alexiaagsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexia-gonçalves-1985b925a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-               - nome: gerar-jogo-snake-from-github-contribution-grid
-                usos: Platane/snk@v3.2.0
-            
+             
 
 </div>
